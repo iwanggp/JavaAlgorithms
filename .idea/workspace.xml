@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b0d8939-598a-4b40-9bce-7f566ae8b618" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/zzu/wgp/BinFind.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/cn/zzu/wgp/HeapSort.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/zzu/wgp/InsertSort.java" afterPath="$PROJECT_DIR$/src/cn/zzu/wgp/InsertSort.java" />
     </list>
     <ignored path="JavaAlgorithms.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -243,7 +240,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
@@ -764,7 +761,14 @@
       <option name="project" value="LOCAL" />
       <updated>1478528085207</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="完成堆排序算法">
+      <created>1478570249816</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1478570249816</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -816,7 +820,8 @@
     <MESSAGE value="实现了简单插入排序和希尔排序" />
     <MESSAGE value="添加md插件后" />
     <MESSAGE value="完成快速排序算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成快速排序算法" />
+    <MESSAGE value="完成堆排序算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成堆排序算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
